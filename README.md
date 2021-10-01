@@ -41,7 +41,7 @@ char pass[] = ""; //Wifi password
 ```
 <details><summary> Collegare hardware</summary>
 https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Hardware_setup.jpg
-https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Diagram_Pinout.png</details>
+https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Diagram_Pinout</details>
 
 ```sh
 NodeMCU-> DHT11
