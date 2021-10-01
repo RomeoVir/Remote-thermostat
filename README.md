@@ -9,10 +9,8 @@ Questo è uno dei miei progetti preferiti.
 Problema: Accendere il riscaldamento da remoto.
 Soluzione: Creare un dispositivo connesso in rete che permettesse di azionare la caldaia.
 Due funzioni principali:
-- Switch
-![alt text](https://youtu.be/V5GdvkVkYtg)
-- Programmed
-![alt text](https://youtu.be/S0FCUpEyEOw)
+- [Switch](https://youtu.be/V5GdvkVkYtg)
+- [Programmed](https://youtu.be/S0FCUpEyEOw)
 
 Materiale:
 - Node MCU (Arduino nano wuth built-in esp8266) like [this](https://www.amazon.it/AZDelivery-NodeMCU-esp8266-esp-12e-gratuito/dp/B074Q2WM1Y/ref=sr_1_5?__mk_it_IT=ÅMÅŽÕÑ&dchild=1&keywords=nodemcu&qid=1633105524&qsid=261-3894730-9792206&sr=8-5&sres=B074Q2WM1Y%2CB0754W6Z2F%2CB06Y1LZLLY%2CB093G6N42D%2CB07DRF9YTV%2CB071P98VTG%2CB07Z68HYW1%2CB0182JOWOK%2CB07DK5Z8SR%2CB07G4FZQNV%2CB093GT7VB8%2CB07DK2LRJJ%2C8869282848%2CB086V8X2RM%2CB093GTG2WJ%2CB08D36M7CX%2CB08HYZ4Y69%2CB08SQFRFXT%2CB07PGH1L8S%2CB07FQJYLJ3&srpt=MOTHERBOARD)
