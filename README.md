@@ -62,4 +62,11 @@ https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/H_setup.jpg
  https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/T_Setup.jpg
  https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Manual_Command.jpg
  </details>
-- 
+
+<details><summary> Calcolare partitore e saldare resistenze </summary>
+https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Partitore.jpg
+https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Calcolo partitore.jpg</details>
+
+<details><summary> Forare il muro e fissare il box </summary>
+https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Mounted.jpg
+https://github.com/RomeoVir/Remote-thermostat/blob/main/Photos/Wall_mounted.jpg</details>
